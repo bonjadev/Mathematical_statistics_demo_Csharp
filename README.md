@@ -1,0 +1,2 @@
+# Mathematical_statistics_demo_Csharp
+Mathematical_statistics_demo_Csharp
